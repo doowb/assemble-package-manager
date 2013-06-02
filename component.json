@@ -1,7 +1,7 @@
 {
   "name": "assemble-package-manager",
   "description": "Utilities for managing packages.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repo": "assemble/assemble-package-manager",
   "main": [
     "./lib/index.js"
